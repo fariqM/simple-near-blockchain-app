@@ -1,0 +1,4 @@
+com/vblockchain/app/MainActivity.java
+ com.vblockchain.app.MainActivity
+com/vblockchain/app/BuildConfig.java
+ com.vblockchain.app.BuildConfig

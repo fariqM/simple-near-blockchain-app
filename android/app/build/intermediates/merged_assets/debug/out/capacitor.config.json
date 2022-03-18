@@ -1,0 +1,6 @@
+{
+	"appId": "com.vblockchain.app",
+	"appName": "VueBlockchain",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
